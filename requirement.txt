@@ -1,0 +1,12 @@
+python-dotenv
+httpx
+beautifulsoup4
+readability-lxml
+lxml
+pydantic
+openai
+tqdm
+
+# RAG
+
+PyMuPDF
